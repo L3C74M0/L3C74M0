@@ -3,16 +3,7 @@
 <!-- Link de los iconos: https://devicon.dev/ -->
 <!--  -->
 
-# Hello World 👋
-
-<div>
-  <h1 style="display: table-cell; vertical-align: middle;">
-    Contact me:
-    <a href="https://www.linkedin.com/in/l3c74m0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  </h1>
-</div>
- 
-  
+# About me
 
 <div>
   <a href="https://github.com/L3C74M0">
@@ -52,10 +43,14 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" target="_blank">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank">
-  
-  
 </div>
   
   ##
+<div>
+  <h1 style="display: table-cell; vertical-align: middle;">
+    Contact me:
+    <a href="https://www.linkedin.com/in/l3c74m0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  </h1>
+</div>
   
   ![Snake animation](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.svg)
