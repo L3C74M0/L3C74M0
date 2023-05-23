@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" target="_blank">
 </div>
   
-  ###
+  ##
   
   ![Snake animation](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.svg)
 
