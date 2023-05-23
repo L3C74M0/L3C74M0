@@ -6,6 +6,11 @@
 ## Hello World 👋
 
 <div>
+  <p>Contact me: </p>
+  <a href="https://www.linkedin.com/in/l3c74m0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<div>
   <a href="https://github.com/L3C74M0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L3C74M0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3C74M0&layout=compact&langs_count=7&theme=dracula" />
@@ -48,9 +53,5 @@
 </div>
   
   ##
-  
-<div> 
-  <a href="https://www.linkedin.com/in/l3c74m0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
   
   ![Snake animation](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.svg)
