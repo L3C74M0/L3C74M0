@@ -47,8 +47,8 @@
   
   ##
   
-  ![Snake animation](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.gif)
+  <!-- ![Snake animation](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.svg) -->
+  <!-- ![snake gif](https://github.com/L3C74M0/L3C74M0/blob/output/github-contribution-grid-snake.gif) -->
 
 <div>
   <h1 style="display: table-cell; vertical-align: middle;">
